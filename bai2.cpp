@@ -73,6 +73,7 @@ int main(int argc, char const *argv[])
     }
     delete[] arrayToSort;
     delete[] array;
+	system("pause");
     return 0;
 }
 

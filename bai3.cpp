@@ -89,6 +89,7 @@ int main(int argc, char const *argv[])
     }
     delete[] array;
     delete[] arrayToSort;
+	system("pause");
     return 0;
 }
 
